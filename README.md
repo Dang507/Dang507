@@ -1,7 +1,7 @@
 ### Dangvp 👋
 
-Hi! I'm Đăng 🙋
+Hi! I'm Dang 🙋
 - I taught myself .NET, C# and React
-- Dream More, Learn More, Do More, Play More 🤟🤟 !! YAAAAAAA
+- Dream More, Learn More, Code More, Play More 🤟🤟 !! YAAAAAAA
 
 
