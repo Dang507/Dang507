@@ -1,7 +1,7 @@
 ### Dangvp 👋
 
 Hi! I'm Dang 🙋
-- .NET and React and more things
+- .NET, PHP, TypeScript, JS and React and more things
 
 
 
